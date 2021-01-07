@@ -1,0 +1,147 @@
+.tree{
+  position:absolute;
+  color:green;
+  font-size:220px;
+  left:120px;
+}
+.bell, .berry, .cane, .star, .snowman, .snowflake, .mappin1, .mappin2, .gifts, .gift{
+  position:absolute;
+  color:red;
+  font-size:25px;
+}
+.bell1{
+  left:136px;
+  top:60px;
+}
+.bell2{
+  left:245px;
+  top:55px;
+}
+.berry1{
+  left:190px;
+  top:20px;
+}
+.berry2{
+  left:165px;
+  top:90px;
+}
+.berry3{
+  left:220px;
+  top:120px;
+}
+.cane1{
+  left:250px;
+  top:90px;
+}
+.cane2{
+  left:125px;
+  top:105px;
+  transform: rotate(-80deg);
+}
+.star{
+  color:yellow;
+  left:185px;
+  top:-20px;
+  font-size:30px;
+}
+.snowman{
+  color:white;
+  font-size:25px;
+  left:205px;
+  top:70px; 
+}
+.snowflake{
+  color:white;
+  left:165px;
+  top:140px;
+}
+.mappin1{
+  transform:rotate(180deg);
+  left:115px;
+  top:170px;
+}
+.mappin2{
+  transform:rotate(180deg);
+  left:275px;
+  top:170px;
+}
+.gifts{
+  font-size:55px;
+  left:195px;
+  bottom:160px; 
+  color:#8B008B;
+}
+.gift{
+  font-size:40px;
+  left:155px;
+  bottom:160px;
+  color:#FF8C00; 
+}
+
+.spin1{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:180px;
+  top:30px; 
+}
+.spin2{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:230px;
+  top:50px; 
+}
+.spin3{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:185px;
+  top:65px;
+}
+.spin4{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:230px;
+  top:100px; 
+}
+.spin5{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:180px;
+  top:120px; 
+}
+.spin6{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:200px;
+  top:140px; 
+}
+.spin7{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:245px;
+  top:155px;
+}
+.spin8{
+  position:absolute;
+  color:yellow;
+  font-size:13px;
+  left:145px;
+  top:165px;
+}
+ .christmas{
+  position:center;
+  margin-top:-10px;
+  width:100%;
+  height:40px;
+  font-family: 'Mountains of Christmas', cursive;
+  font-size:15px;
+  padding-left:102px;
+  }
+
+
